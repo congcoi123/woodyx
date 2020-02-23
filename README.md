@@ -1,12 +1,12 @@
 # Woodyx
 
-This is a small library based on the [Libgdx](https://libgdx.badlogicgames.com/) framework. It can help you easier to create the physic body object with [box2d](https://box2d.org/) library or make the tween effect by [Universal Tween](https://github.com/AurelienRibon/universal-tween-engine) Engine library.
+This is a small library based on the [Libgdx](https://libgdx.badlogicgames.com/) framework. It can help you easier to create the physic body object with [box2d](https://box2d.org/) library or make the tween effect by [Universal Tween Engine](https://github.com/AurelienRibon/universal-tween-engine) library.
 
-## Features
+## How to use
 - Just implement and use it!
 
 ## Wiki
-The [wiki]() provides implementation level details and answers to general questions.
+The [wiki](https://github.com/congcoi123/woodyx/wiki) provides implementation level details and answers to general questions.
 
 ## Dependencies
 - gdx
@@ -15,7 +15,7 @@ The [wiki]() provides implementation level details and answers to general questi
 - bodyeditor-loader
 
 ## License
-This project is currently available under the [MIT]() License.
+This project is currently available under the [MIT](https://github.com/congcoi123/woodyx/blob/master/LICENSE) License.
 
 ## Installation
 You can get the sources:
